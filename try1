@@ -2,7 +2,11 @@
   <head>
     <title>Заголовок</title>
   </head>
-  <body>
-    <h1>Это заголовок Н1</h1>
-  </body>
+    <body>
+      <tr>\
+        <th width=300px>Поле</th>\
+        <th>Значение</th>\
+        <th>Комментарий</th>\
+      </tr>\
+    </body>
 <html>
